@@ -17,6 +17,8 @@ body {
     align-items: center;
 }
 
+/* IMAGE */
+
 .qr-card{
     display: flex;
     flex-direction: column;
@@ -29,16 +31,24 @@ align-items: center;
     box-shadow: 0px 0px 50px rgb(180, 180, 180);
 }
 
-.qr-card img {
-    border-radius: 1rem;
-    width: 100%;
+    .qr-card img {
+        border-radius: 1rem;
+        width: 100%;
 
-}
+    }
+
+/* INFORMATION */
 
 .info {
     text-align: center;
     width: 270px;
 }
-.info p {
-    color: rgba(124, 129, 140,1);
-}
+
+    .info h2{
+        font-weight: 700;
+    }
+    .info p {
+        color: rgba(124, 129, 140,1);
+        font-weight: 400;
+    }
+
