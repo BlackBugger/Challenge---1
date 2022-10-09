@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: [Challenge-1](https://challenge-1-cruz.netlify.app/m)
+- Live Site URL: [Challenge-1](https://challenge-1-cruz.netlify.app/)
 
 ## My process
 
